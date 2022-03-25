@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ultraishere
+- 👀 I’m interested in pretty much anything python related
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python stuff
+- 📫 How to reach me: messages
